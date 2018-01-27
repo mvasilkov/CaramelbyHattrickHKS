@@ -1,0 +1,16 @@
+﻿Terms of Service and Rules
+
+We reserve the rights to modify any Content submitted for any reason without explanation.
+These terms may be changed at any time without notice. If you do not agree with these terms, please do not use this Service.
+
+How to Use Caramel® & AimWave® Private Counter-Strike Global Offensive Hacks
+
+Start the Application while you are in-game (main menu or a lobby).
+In-game, press DEL (DELETE) key for the skin changer's menu and INS (INSERT) key for the hack's menu.
+DO NOT SEND Caramel® & AimWave® Private Counter-Strike Global Offensive Hacks TO ANOTHER PEOPLE OR
+RANDOMLY PUBLISH IT ON THE INTERNET FOR YOUR OWN SECURITY. WE ENSURE THAT YOU ARE THE ONLY ONE THAT CAN
+USE Caramel® & AimWave® Private Counter-Strike Global Offensive Hacks BECAUSE YOU HAVE PAID FOR IT.
+
+hSkins.JSON file must be placed where CS:GO is installed, around `csgo.exe` file.
+For example, C:\Program Files (x86)\Steam\SteamApps\Common\Counter-Strike Global Offensive
+This is Optional.
